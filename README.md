@@ -1,0 +1,2 @@
+# Su-Alt-Drone-Tasar-m-
+UWD takımının kaptanlığını ve tasarımcılığını yaptığım , İnsansız Su Altı Sistemleri yarışmasında sergileyeceğimiz su altı drone’umuzun ön tasarımıdır. Şasi su altındaki şartlara uygun şekilde dizayn edilmiş ve 6 motor destekleyecek şekilde tasarlanmıştır. Şasinin bağlandığı silindir yapı elektronik devrelerin su ile temasını önlemek amacıyla vakumlu kapak ile mühürlenmiştir. Ön tasarım raporunu teslim ettiğimiz projede çalışmalarımız devam etmektedir. 
